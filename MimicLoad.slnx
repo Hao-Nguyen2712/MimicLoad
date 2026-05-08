@@ -1,1 +1,12 @@
-<Solution />
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MimicLoad.Api/MimicLoad.Api.csproj" Id="0fcf8773-4419-41f6-a261-50a0303a443a" />
+    <Project Path="src/MimicLoad.Shared/MimicLoad.Shared.csproj" Id="dac0d890-f999-44e9-8854-61df4c52f006" />
+  </Folder>
+  <Folder Name="/src/Modules/" />
+  <Folder Name="/src/Modules/Simulation/">
+    <Project Path="src/Modules/Simulation/Simulation.Application/Simulation.Application.csproj" Id="ec8db9e2-7d7e-4152-9138-5ea0e057f4af" />
+    <Project Path="src/Modules/Simulation/Simulation.Core/Simulation.Core.csproj" Id="b7f34486-9ae2-4e8a-b215-511fe57e5503" />
+    <Project Path="src/Modules/Simulation/Simulation.Infra/Simulation.Infra.csproj" Id="fee00187-0249-4659-b848-4647db48a7a3" />
+  </Folder>
+</Solution>
